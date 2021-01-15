@@ -4,3 +4,4 @@ $ git config user.email evan.ckj@gmail.com
 
 
 s
+from mac
